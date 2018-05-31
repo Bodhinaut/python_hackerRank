@@ -1,7 +1,7 @@
 # HackerRank Coding Challenges
 
 ---
-
+## Solve Algorithms - Algorithms - Warmup
 ### solveMeFirst
 Complete the function solveMeFirst to compute the sum of two integers.
 
