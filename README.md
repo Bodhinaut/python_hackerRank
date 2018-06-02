@@ -63,6 +63,8 @@ Comparison points is the total points a person earned.
 
 Given  and , can you compare the two challenges and print their respective comparison points?
 
+---
+
 
 ### veryBigSum
 Calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
@@ -75,3 +77,15 @@ The next line contains  space-separated integers contained in the array.
 Output Format
 
 Print the integer sum of the elements in the array
+
+---
+
+### diag_diff
+Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+
+Input Format
+
+The first line contains a single integer,  denoting the number of rows and columns in the matrix . 
+The next  lines denote the matrix 's rows, with each line containing  space-separated integers describing the columns.
+
+---
