@@ -6,6 +6,7 @@ def matrix(n) :
         k = input().split()
         a += int(k[i])
         b += int(k[n-1-i])
+        print(int(k[n-1-i]))
         i += 1
     return abs(a-b)  
 
